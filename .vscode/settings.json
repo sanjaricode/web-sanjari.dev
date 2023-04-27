@@ -1,0 +1,23 @@
+{
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": ["source.fixAll.eslint"],
+  "eslint.validate": ["javascript", "javascriptreact", "typescript", "vue"],
+  "editor.formatOnSaveMode": "file",
+  "editor.fontSize": 12,
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "i18n-ally.localesPaths": ["src/locales"],
+  "[typescript]": {
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": ["source.fixAll.eslint"],
+    "editor.formatOnSaveMode": "file"
+  },
+  "i18n-ally.keystyle": "nested"
+}
